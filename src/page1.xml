@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page>
+	<image>"/page1.png"</image>
+    <title>
+        <number>1</number>
+        <heading>GOD LOVES YOU AND OFFERS A WONDERFUL PLAN FOR YOUR LIFE.</heading>
+       
+    </title>
+    
+    <button>
+        <buttontext>God's Love</buttontext>
+		<image>"p1button1.png"</image>
+        <panel>
+            <text>"For God so loved the world that He gave His one and only Son, that whoever believes in Him shall not persish but everlasting Life." 
+					(John 3:16, NIV)</text>
+        </panel>
+    </button>
+    
+    <button>
+        <buttontext>God's Plan</buttontext>
+		<image>"p1button2.png"</image>
+        <panel>
+            <text>[Christ speaking] "I came that they might have life, and might have it abundantly" [that it might be full and meaningful].
+				(John 10:10)</text>
+        </panel>
+    </button>
+    
+    <question>Why is that most people 
+	are not experiecing the 
+	abundant life? Because ... </question>
+
+</page>
